@@ -22,3 +22,14 @@ Run this command from the root directory:
 ```bash
 docker-compose up --build
 ```
+
+## Screenshots
+
+### User Dashboard
+![User View](./screenshots/user.png)
+
+### Admin Viewport
+![Admin View](./screenshots/admin.png)
+
+### Swagger Interactive Docs
+![Login View](./screenshots/login.png)
