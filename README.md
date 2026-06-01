@@ -31,5 +31,5 @@ docker-compose up --build
 ### Admin Viewport
 ![Admin View](./screenshots/admin.png)
 
-### Swagger Interactive Docs
+### Login Portal
 ![Login View](./screenshots/login.png)
