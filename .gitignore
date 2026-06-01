@@ -1,0 +1,29 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+ENV/
+env/
+
+# Node & Frontend dependencies
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Environment configuration variables
+.env
+.env.local
+.env.*.local
+
+# Databases & local persistent volumes
+pgdata/
+*.db
+*.sqlite3
+
+# Operating System files
+.DS_Store
+Thumbs.db
